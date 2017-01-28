@@ -2,10 +2,11 @@
 import tweepy
 from time import sleep
 from credentials import *
-consumer_key = 'aASpfECWNESRvTZSLr3F2QKYD'
-consumer_secret = 'Qis8iBNxEoFIl9iQwlsbxgW4f32FEvbz4fcQ7nhfmLrrkcw0JV'
-access_token = '822053231769612288-kNdMdHOXqgwHIJ1sJb7lWLrDc2EFnwB'
-access_secret = 'ZmIITzdsPzoIgqP3NlNqGLrf6FDjgCoNUB1sCfEInNWjX'
+## Twitter credentials go here
+consumer_key = None # consumer key
+consumer_secret = None # consumer secret
+access_token = None # access token
+access_secret = None # access secret
 
 
 #Tweet every 10 minutes
